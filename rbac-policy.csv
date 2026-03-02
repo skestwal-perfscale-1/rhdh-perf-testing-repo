@@ -1,0 +1,31 @@
+p, role:default/a, kubernetes.proxy, use, allow
+p, role:default/a, catalog-entity, read, allow
+p, role:default/a, catalog.entity.create, create, allow
+p, role:default/a, catalog.location.create, create, allow
+p, role:default/a, catalog.location.read, read, allow
+g, user:default/guru, role:default/a
+g, user:development/guest, role:default/a
+p, role:default/a, orchestrator.workflow, read, allow
+p, role:default/a, orchestrator.workflow.use, update, allow
+p, role:default/a, orchestrator.workflowAdminView, read, allow
+p, role:default/a, orchestrator.instanceAdminView, read, allow
+g, group:default/g1, role:default/a
+g, group:default/g2, role:default/a
+g, group:default/g3, role:default/a
+g, group:default/g4, role:default/a
+g, group:default/g5, role:default/a
+g, group:default/g6, role:default/a
+g, group:default/g7, role:default/a
+g, group:default/g8, role:default/a
+g, group:default/g9, role:default/a
+g, group:default/g10, role:default/a
+g, group:default/g11, role:default/a
+g, group:default/g12, role:default/a
+g, group:default/g13, role:default/a
+g, group:default/g14, role:default/a
+g, group:default/g15, role:default/a
+g, group:default/g16, role:default/a
+g, group:default/g17, role:default/a
+g, group:default/g18, role:default/a
+g, group:default/g19, role:default/a
+g, group:default/g20, role:default/a

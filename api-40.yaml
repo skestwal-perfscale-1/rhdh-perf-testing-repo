@@ -1,0 +1,6000 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20001
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20001
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20002
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20002
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20003
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20003
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20004
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20004
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20005
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20005
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20006
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20006
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20007
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20007
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20008
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20008
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20009
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20009
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20010
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20010
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20011
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20011
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20012
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20012
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20013
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20013
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20014
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20014
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20015
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20015
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20016
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20016
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20017
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20017
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20018
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20018
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20019
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20019
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20020
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20020
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20021
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20021
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20022
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20022
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20023
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20023
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20024
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20024
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20025
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20025
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20026
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20026
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20027
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20027
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20028
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20028
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20029
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20029
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20030
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20030
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20031
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20031
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20032
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20032
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20033
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20033
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20034
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20034
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20035
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20035
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20036
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20036
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20037
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20037
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20038
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20038
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20039
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20039
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20040
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20040
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20041
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20041
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20042
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20042
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20043
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20043
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20044
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20044
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20045
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20045
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20046
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20046
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20047
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20047
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20048
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20048
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20049
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20049
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20050
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20050
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20051
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20051
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20052
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20052
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20053
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20053
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20054
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20054
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20055
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20055
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20056
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20056
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20057
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20057
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20058
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20058
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20059
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20059
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20060
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20060
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20061
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20061
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20062
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20062
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20063
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20063
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20064
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20064
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20065
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20065
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20066
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20066
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20067
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20067
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20068
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20068
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20069
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20069
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20070
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20070
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20071
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20071
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20072
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20072
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20073
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20073
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20074
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20074
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20075
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20075
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20076
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20076
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20077
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20077
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20078
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20078
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20079
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20079
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20080
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20080
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20081
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20081
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20082
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20082
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20083
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20083
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20084
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20084
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20085
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20085
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20086
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20086
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20087
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20087
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20088
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20088
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20089
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20089
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20090
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20090
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20091
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20091
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20092
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20092
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20093
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20093
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20094
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20094
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20095
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20095
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20096
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20096
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20097
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20097
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20098
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20098
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20099
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20099
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20100
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20100
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20101
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20101
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20102
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20102
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20103
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20103
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20104
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20104
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20105
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20105
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20106
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20106
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20107
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20107
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20108
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20108
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20109
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20109
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20110
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20110
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20111
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20111
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20112
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20112
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20113
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20113
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20114
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20114
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20115
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20115
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20116
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20116
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20117
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20117
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20118
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20118
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20119
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20119
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20120
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20120
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20121
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20121
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20122
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20122
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20123
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20123
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20124
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20124
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20125
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20125
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20126
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20126
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20127
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20127
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20128
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20128
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20129
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20129
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20130
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20130
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20131
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20131
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20132
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20132
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20133
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20133
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20134
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20134
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20135
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20135
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20136
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20136
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20137
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20137
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20138
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20138
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20139
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20139
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20140
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20140
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20141
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20141
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20142
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20142
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20143
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20143
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20144
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20144
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20145
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20145
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20146
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20146
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20147
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20147
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20148
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20148
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20149
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20149
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20150
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20150
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20151
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20151
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20152
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20152
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20153
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20153
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20154
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20154
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20155
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20155
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20156
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20156
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20157
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20157
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20158
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20158
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20159
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20159
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20160
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20160
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20161
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20161
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20162
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20162
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20163
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20163
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20164
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20164
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20165
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20165
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20166
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20166
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20167
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20167
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20168
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20168
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20169
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20169
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20170
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20170
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20171
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20171
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20172
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20172
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20173
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20173
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20174
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20174
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20175
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20175
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20176
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20176
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20177
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20177
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20178
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20178
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20179
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20179
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20180
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20180
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20181
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20181
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20182
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20182
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20183
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20183
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20184
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20184
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20185
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20185
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20186
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20186
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20187
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20187
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20188
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20188
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20189
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20189
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20190
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20190
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20191
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20191
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20192
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20192
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20193
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20193
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20194
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20194
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20195
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20195
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20196
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20196
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20197
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20197
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20198
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20198
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20199
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20199
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20200
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20200
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20201
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20201
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20202
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20202
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20203
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20203
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20204
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20204
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20205
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20205
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20206
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20206
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20207
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20207
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20208
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20208
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20209
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20209
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20210
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20210
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20211
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20211
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20212
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20212
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20213
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20213
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20214
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20214
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20215
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20215
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20216
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20216
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20217
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20217
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20218
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20218
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20219
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20219
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20220
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20220
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20221
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20221
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20222
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20222
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20223
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20223
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20224
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20224
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20225
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20225
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20226
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20226
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20227
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20227
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20228
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20228
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20229
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20229
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20230
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20230
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20231
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20231
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20232
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20232
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20233
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20233
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20234
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20234
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20235
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20235
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20236
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20236
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20237
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20237
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20238
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20238
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20239
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20239
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20240
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20240
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20241
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20241
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20242
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20242
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20243
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20243
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20244
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20244
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20245
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20245
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20246
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20246
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20247
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20247
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20248
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20248
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20249
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20249
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20250
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20250
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20251
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20251
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20252
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20252
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20253
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20253
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20254
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20254
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20255
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20255
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20256
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20256
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20257
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20257
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20258
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20258
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20259
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20259
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20260
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20260
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20261
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20261
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20262
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20262
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20263
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20263
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20264
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20264
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20265
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20265
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20266
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20266
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20267
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20267
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20268
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20268
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20269
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20269
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20270
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20270
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20271
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20271
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20272
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20272
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20273
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20273
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20274
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20274
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20275
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20275
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20276
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20276
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20277
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20277
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20278
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20278
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20279
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20279
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20280
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20280
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20281
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20281
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20282
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20282
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20283
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20283
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20284
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20284
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20285
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20285
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20286
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20286
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20287
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20287
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20288
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20288
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20289
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20289
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20290
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20290
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20291
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20291
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20292
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20292
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20293
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20293
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20294
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20294
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20295
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20295
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20296
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20296
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20297
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20297
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20298
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20298
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20299
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20299
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20300
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20300
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20301
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20301
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20302
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20302
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20303
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20303
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20304
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20304
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20305
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20305
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20306
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20306
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20307
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20307
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20308
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20308
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20309
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20309
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20310
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20310
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20311
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20311
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20312
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20312
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20313
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20313
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20314
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20314
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20315
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20315
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20316
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20316
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20317
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20317
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20318
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20318
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20319
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20319
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20320
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20320
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20321
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20321
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20322
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20322
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20323
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20323
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20324
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20324
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20325
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20325
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20326
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20326
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20327
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20327
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20328
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20328
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20329
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20329
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20330
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20330
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20331
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20331
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20332
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20332
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20333
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20333
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20334
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20334
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20335
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20335
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20336
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20336
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20337
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20337
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20338
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20338
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20339
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20339
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20340
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20340
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20341
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20341
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20342
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20342
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20343
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20343
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20344
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20344
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20345
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20345
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20346
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20346
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20347
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20347
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20348
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20348
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20349
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20349
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20350
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20350
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20351
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20351
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20352
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20352
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20353
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20353
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20354
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20354
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20355
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20355
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20356
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20356
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20357
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20357
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20358
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20358
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20359
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20359
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20360
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20360
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20361
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20361
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20362
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20362
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20363
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20363
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20364
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20364
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20365
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20365
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20366
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20366
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20367
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20367
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20368
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20368
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20369
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20369
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20370
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20370
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20371
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20371
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20372
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20372
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20373
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20373
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20374
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20374
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20375
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20375
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20376
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20376
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20377
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20377
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20378
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20378
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20379
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20379
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20380
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20380
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20381
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20381
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20382
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20382
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20383
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20383
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20384
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20384
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20385
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20385
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20386
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20386
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20387
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20387
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20388
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20388
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20389
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20389
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20390
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20390
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20391
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20391
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20392
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20392
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20393
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20393
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20394
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20394
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20395
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20395
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20396
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20396
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20397
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20397
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20398
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20398
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20399
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20399
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20400
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20400
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20401
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20401
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20402
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20402
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20403
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20403
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20404
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20404
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20405
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20405
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20406
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20406
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20407
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20407
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20408
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20408
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20409
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20409
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20410
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20410
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20411
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20411
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20412
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20412
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20413
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20413
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20414
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20414
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20415
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20415
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20416
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20416
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20417
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20417
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20418
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20418
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20419
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20419
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20420
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20420
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20421
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20421
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20422
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20422
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20423
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20423
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20424
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20424
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20425
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20425
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20426
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20426
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20427
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20427
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20428
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20428
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20429
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20429
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20430
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20430
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20431
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20431
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20432
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20432
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20433
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20433
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20434
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20434
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20435
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20435
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20436
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20436
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20437
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20437
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20438
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20438
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20439
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20439
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20440
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20440
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20441
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20441
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20442
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20442
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20443
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20443
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20444
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20444
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20445
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20445
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20446
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20446
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20447
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20447
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20448
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20448
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20449
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20449
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20450
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20450
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20451
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20451
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20452
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20452
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20453
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20453
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20454
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20454
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20455
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20455
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20456
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20456
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20457
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20457
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20458
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20458
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20459
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20459
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20460
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20460
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20461
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20461
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20462
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20462
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20463
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20463
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20464
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20464
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20465
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20465
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20466
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20466
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20467
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20467
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20468
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20468
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20469
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20469
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20470
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20470
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20471
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20471
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20472
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20472
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20473
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20473
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20474
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20474
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20475
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20475
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20476
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20476
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20477
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20477
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20478
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20478
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20479
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20479
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20480
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20480
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20481
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20481
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20482
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20482
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20483
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20483
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20484
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20484
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20485
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20485
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20486
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20486
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20487
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20487
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20488
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20488
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20489
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20489
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20490
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20490
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20491
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20491
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20492
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20492
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20493
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20493
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20494
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20494
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20495
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20495
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20496
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20496
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20497
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20497
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20498
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20498
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20499
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20499
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20500
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g20500
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
